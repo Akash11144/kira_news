@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kira_news/static/css/main.3ccdf629.chunk.css",
+    "main.css": "/kira_news/static/css/main.45d7e1d5.chunk.css",
     "main.js": "/kira_news/static/js/main.15e2520d.chunk.js",
     "main.js.map": "/kira_news/static/js/main.15e2520d.chunk.js.map",
     "runtime-main.js": "/kira_news/static/js/runtime-main.9f6d15ac.js",
@@ -10,13 +10,13 @@
     "static/js/3.aedde006.chunk.js": "/kira_news/static/js/3.aedde006.chunk.js",
     "static/js/3.aedde006.chunk.js.map": "/kira_news/static/js/3.aedde006.chunk.js.map",
     "index.html": "/kira_news/index.html",
-    "static/css/main.3ccdf629.chunk.css.map": "/kira_news/static/css/main.3ccdf629.chunk.css.map",
+    "static/css/main.45d7e1d5.chunk.css.map": "/kira_news/static/css/main.45d7e1d5.chunk.css.map",
     "static/js/2.775e8741.chunk.js.LICENSE.txt": "/kira_news/static/js/2.775e8741.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9f6d15ac.js",
     "static/js/2.775e8741.chunk.js",
-    "static/css/main.3ccdf629.chunk.css",
+    "static/css/main.45d7e1d5.chunk.css",
     "static/js/main.15e2520d.chunk.js"
   ]
 }
